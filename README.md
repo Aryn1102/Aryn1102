@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aryn1102
 - 👀 I’m interested in learning new tech stacks
-- 🌱 I’m currently learning DSA and DevOps
+- 🌱 I’m currently learning DSA
 - 📫 How to reach me Gmail<rajaryan3132@gmail.com>
 
 <!---
